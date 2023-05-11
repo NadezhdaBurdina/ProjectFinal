@@ -1,0 +1,21 @@
+LOGIN = "7906622****"
+PASSWORD = "Anna987**"
+EMAIL = "solo****999@bk.ru"
+LOGLOGIN = "anna-anna"
+LS = "12345678910"
+
+
+LOGIN_NEGATIVE = "79066239017"
+PASSWORD_NEGATIVE = "Anna98747"
+EMAIL_NEGATIVE = "solo999@bk.ru"
+LOGLOGIN_NEGATIVE= "anna-annO"
+LS_NEGATIVE = "12345678917"
+
+
+NAME = 'Анна'
+SURNAME= "Анна"
+REGION = "Москва г."
+EMAIL = "annanan1987252@mail.ru"
+
+ALREADY_MAIL = "anna@mail.ru"
+INVALID_NAME = 'YFHU123'
