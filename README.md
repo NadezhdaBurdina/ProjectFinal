@@ -1,7 +1,7 @@
 # ProjectFinal
 Тестирование интерфейса авторизации в личном кабинете  Ростелеком Информационные Технологии\
 Объект тестирования: https://b2c.passport.rt.ru\
-Тест - кейсы и баг репорты доступны по ссылке https://docs.google.com/spreadsheets/d/12gY4gbWwMpLAWTHAnC7ErufBYbFGcoAyzOfC5InpaKk/edit?usp=sharing\
+Тест - кейсы и баг репорты доступны по ссылке https://docs.google.com/spreadsheets/d/12gY4gbWwMpLAWTHAnC7ErufBYbFGcoAyzOfC5InpaKk/edit?usp=sharing  \
 Для запуска тестов необходимо:\
 а)установить библиотеки pytest, selenium\
 б) в файле settings.py изменить значение переменных LOGIN, PASSWORD, EMAIL на валидные\
