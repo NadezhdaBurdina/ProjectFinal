@@ -3,7 +3,7 @@
 Объект тестирования: https://b2c.passport.rt.ru   \
 Тест - кейсы и баг репорты доступны по ссылке https://docs.google.com/spreadsheets/d/12gY4gbWwMpLAWTHAnC7ErufBYbFGcoAyzOfC5InpaKk/edit?usp=sharing  \
 Для запуска тестов необходимо:\
-а)установить библиотеки pytest, selenium\
+а)установить библиотеки pytest, selenium, драйвер для браузера Firefox\
 б) в файле settings.py изменить значение переменных LOGIN, PASSWORD, EMAIL на валидные\
 В папке tests находятся файлы:\
 а) test_auth.py - проверка внешнего вида главной страницы, авторизация по различными данными\
